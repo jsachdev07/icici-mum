@@ -3,3 +3,5 @@ I'm making my second commit
 I'm making my third commit
 I'm making my fourth commit
 I'm adding a new line to create conflict
+I'm making a commit in conflict branch
+
